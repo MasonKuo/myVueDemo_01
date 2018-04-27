@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import DoubanResource from '@/components/DoubanResource.vue';
+import DoubanResource from '@/components/DoubanResource.vue'
 export default {
   name: 'Movie',
   data () {
