@@ -103,6 +103,7 @@ export default {
     font-size: 1em;
     margin-top: 10px;
     user-select: none;
+    font-family: "Microsoft YaHei";
   }
   #doubanResource ul{
     padding: 0;
@@ -121,6 +122,7 @@ export default {
     box-shadow: 2px 2px 12px white;
   }
   #doubanResource h2{
+    text-align: center;
     color: #ccc;
   }
   #doubanResource h2:hover{
