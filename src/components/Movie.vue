@@ -1,7 +1,7 @@
 <template>
   <div class="menu">
     <!-- <h1>{{ msg }}</h1> -->
-    <DoubanResource/>
+    <DoubanResource isShow='true'/>
     <DoubanResource topx="10"/>
     <DoubanResource topx="20"/>
   </div>

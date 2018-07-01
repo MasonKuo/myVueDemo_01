@@ -43,7 +43,7 @@ export default {
     selectedMovie: {},
     isShow: false,
   }),
-  props: ['topx'],
+  props: ['topx', 'isShow'],
   // components: {
   //   Card
   // },
